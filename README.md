@@ -7,8 +7,7 @@
   </tr>
 </table>
 
-<details>
-<summary>📝 <b>Model Output</b></summary>
+### 📝 Model Output
 
 **Question:** Is the man on the left surprised when the man on the right suddenly moves towards him with the pie?
 
@@ -58,5 +57,3 @@
 > person: man in plaid shirt
 > person: man in dark shirt, moving suddenly with the pie
 > ```
-
-</details>
