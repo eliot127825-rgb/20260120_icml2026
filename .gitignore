@@ -3,6 +3,13 @@ outputs/
 data/
 logs/
 *.log
+*.mp4
+*.avi
+*.jpg
+*.png
+*.gif
+frames/
+merged_masks/
 *.safetensors
 *.bin
 *.pt
