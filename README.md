@@ -1,13 +1,21 @@
 ## 🎥 Overview Demo
 
 <p align="center">
-  <img src="./assets/Demo_Video_small.gif?raw=1" width="80%">
+  <img src="./assets/Demo_Video.gif?raw=1" width="80%">
+</p>
+
+<p align="center">
+  <sub>📁 Path: <code>./assets/Demo_Video.gif</code></sub>
 </p>
 
 ## 🎬 Demo
 
 <p align="center">
   <img src="./assets/demo2.gif?raw=1" width="60%">
+</p>
+
+<p align="center">
+  <sub>📁 Path: <code>./assets/demo2.gif</code></sub>
 </p>
 
 ### 📝 Model Output
@@ -73,5 +81,9 @@
   <tr>
     <td><img src="./assets/demo2.gif?raw=1" width="100%"></td>
     <td><img src="./assets/demo2_seg.gif?raw=1" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>📁 <code>./assets/demo2.gif</code></sub></td>
+    <td align="center"><sub>📁 <code>./assets/demo2_seg.gif</code></sub></td>
   </tr>
 </table>
