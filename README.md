@@ -1,13 +1,13 @@
 ## 🎥 Overview Demo
 
 <p align="center">
-  <img src="./assets/Demo_Video_small.gif" width="80%">
+  <img src="./assets/Demo_Video_small.gif?raw=1" width="80%">
 </p>
 
 ## 🎬 Demo
 
 <p align="center">
-  <img src="./assets/demo2.gif" width="60%">
+  <img src="./assets/demo2.gif?raw=1" width="60%">
 </p>
 
 ### 📝 Model Output
@@ -71,7 +71,7 @@
     <td align="center"><b>SAM3 Segmentation</b></td>
   </tr>
   <tr>
-    <td><img src="./assets/demo2.gif" width="100%"></td>
-    <td><img src="./assets/demo2_seg.gif" width="100%"></td>
+    <td><img src="./assets/demo2.gif?raw=1" width="100%"></td>
+    <td><img src="./assets/demo2_seg.gif?raw=1" width="100%"></td>
   </tr>
 </table>
